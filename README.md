@@ -1,2 +1,0 @@
-# respond_frontend
-frontend
